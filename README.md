@@ -3,6 +3,7 @@
 - 🌱 I’m currently Working On [Frenzy](https://bit.ly/frenzybot)
 - 💞️ I am Currently Learning NodeJs
 - 📫 How to reach me ... Discord = ThunderBlox#6501 OR ThunderBlox#1000
+- Visit My Website. [Frenzy](https://frenzybot.tk/)
 
 <!---
 ThunderBlox/ThunderBlox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
